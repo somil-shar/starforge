@@ -1,4 +1,4 @@
-> 📌 **Note for Developers:** Please switch to the **[`code-of-the-project`](https://github.com/somil-shar/starforge/tree/code-of-the-project)** branch to view and access the full source code.
+> 📌 **Note for Developers:** Please switch to the **[`code-of-the-project`](https://github.com/somil-shar/starforge/tree/code-of-project)** branch to view and access the full source code.
 
 <div align="center">
 
